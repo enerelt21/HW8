@@ -1,0 +1,5 @@
+﻿  Source.cpp
+\\cs1\2021\ebat-erdene21\cs-273-1\hw8\ex8_2\source.cpp(25): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2021\ebat-erdene21\cs-273-1\hw8\ex8_2\source.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  HW8_2.vcxproj -> \\cs1\2021\ebat-erdene21\CS-273-1\HW8\EX8_2\HW8_2\Debug\HW8_2.exe
+  HW8_2.vcxproj -> \\cs1\2021\ebat-erdene21\CS-273-1\HW8\EX8_2\HW8_2\Debug\HW8_2.pdb (Partial PDB)
